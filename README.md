@@ -49,7 +49,7 @@ Professores interessados em dar aula, preenchem um formúlario com horários e d
 
 **Clone este repositório**
 ```
-$ git clone https://github.com/jenniferdiehll/ecoleta.git
+$ git clone https://github.com/jenniferdiehll/proffy.git
 ```
 
 -------------
