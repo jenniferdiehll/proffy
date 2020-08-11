@@ -85,5 +85,4 @@ ATENÇÃO: Se não tiver o Expo instalado, digite o trecho: yarn global add inst
 ---------
 ### 📗 Licença
 - Esse projeto esta sobre [MIT license](./LICENSE).
----------
 ![footer](https://user-images.githubusercontent.com/67604477/89931311-5f870f00-dbe2-11ea-9030-940b9869e68b.jpg)
