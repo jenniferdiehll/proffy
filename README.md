@@ -55,6 +55,10 @@ $ git clone https://github.com/jenniferdiehll/proffy.git
 -------------
 ## :books: Intalando a aplicação:
 
+> OBS: Siga os passos abaixo ou acesse o notion de configuração do ambiente.
+- [Notion de configuração - (ROCKETSEAT)](https://www.notion.so/Configurando-Ambiente-NLW-98a471ad3cb6448284b8ceed31c45767/) 
+
+
 ### Backend 
 - Execute o Windows Power Shell em modo admnistrador
 - Abra a pasta `Proffy/server` utilizando o comando `$ cd server`
